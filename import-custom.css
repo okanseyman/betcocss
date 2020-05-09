@@ -1,0 +1,6 @@
+body .better-homepage .row:first-of-type {
+    box-shadow: 0 0 0;
+}
+body .better-homepage .row {
+    background: rgba(255, 255, 255, 0);
+}
